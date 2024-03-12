@@ -1,7 +1,7 @@
 # Image Denoising
 The aim is to improve the quality of binary images by removing noise and analysing its characterisitics
 
-Here we solve this problem using Message Passing which can be viewed in further detail [here]https://arxiv.org/abs/2306.04107
+Here we solve this problem using Message Passing which can be viewed in further detail [here](https://arxiv.org/abs/2306.04107)
 
 Please visit [THIS LINK](https://github.com/AkashSanthanam/ImageDenoising/blob/main/Image_Denoising.pdf) for some discussion, analysis, and exploration of results.
 
